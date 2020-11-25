@@ -7,7 +7,6 @@ class Button extends Component {
                 <button className ={this.props.isSelected ? "badge-primary " : "badge-danger "}
             
            onClick=  {this.props.onClickFn} 
-           value={this.props.name}
            onChange ={this.onClickInputChange}
            value={this.props.name} 
          

@@ -33,7 +33,7 @@ class Card
         return (
             <div>
            <Button onClickFn  = {() => {this.props.onClickFn(this.props.item.price,this.props.item.name)}}>
-               <img src= {this.state.source} style={{width:'200px'}} />
+               <img src= {this.state.source} alt="source" style={{width:'200px'}} />
            </Button>
             </div>
         );

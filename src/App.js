@@ -11,9 +11,9 @@ import "rc-slider/assets/index.css";
 import 'react-tabs/style/react-tabs.css';
 // or
 
-const active = {
-  borderColor: "red"
-};
+// const active = {
+//   borderColor: "red"
+// };
 class App extends Component {
   constructor(props) {
     super(props);
