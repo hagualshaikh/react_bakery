@@ -7,7 +7,7 @@ import Button from "./components/core/Button";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Slider from "rc-slider";
 import "rc-slider/assets/index.css";
-import Card from './components/product/Card'
+// import Card from './components/product/Card'
 import 'react-tabs/style/react-tabs.css';
 // or
 

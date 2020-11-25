@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
- import Button from './core/Button'
+//  import Button from './core/Button'
  import Card from './product/Card'
 class Pay extends Component {
     constructor(props){
